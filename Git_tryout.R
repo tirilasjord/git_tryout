@@ -2,8 +2,8 @@
 
 setwd("/Users/tirilasjord/Documents/NHH høst 2024/BAN400/git")
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(500)
+y <- rnorm(500)
 
 #Important feature
 
